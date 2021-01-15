@@ -8,8 +8,8 @@ function Portal(sites) {
   // Templates
 
   function _readme() {
-    return `<p class='readme'>Welcome to our webring of calendars for <a href='https://tiny-factories.typeform.com/to/hotpAx'>Tiny Factories</a>.<br/><br/></p>
-    <p>If you ended up on this page as part of your <a href='https"//tinyfactories.space'>Tiny Factories Community application</a>, then please set up a time with one of our members listed above to complete the application.</p> <br/><br/>
+    return `<p class='readme'>Welcome to our webring of calendars for <a href='https://tinyfactories.space'>Tiny Factories</a>.<br/><br/></p>
+    <p>If you ended up on this page as part of your <a href='https://tiny-factories.typeform.com/to/hotpAx'>Tiny Factories Community application</a>, then please set up a time with one of our members listed above to complete the application.</p> <br/><br/>
     <p>Of course, if you just discovered this page organically would still love to chat too. </p><br/><br/>`;
   }
 
