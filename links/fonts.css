@@ -1,15 +1,16 @@
 /* Input Mono */
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;500&display=swap");
 
 @font-face {
-  font-family: 'input_mono_regular';
-  src: url('../media/fonts/input_mono_regular.ttf') format('truetype');
+  font-family: "DM Mono", "input_mono_regular";
+  src: url("../media/fonts/input_mono_regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'input_mono_medium';
-  src: url('../media/fonts/input_mono_medium.ttf') format('truetype');
+  font-family: "DM Mono", "input_mono_medium";
+  src: url("../media/fonts/input_mono_medium.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
