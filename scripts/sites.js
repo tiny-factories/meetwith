@@ -5,14 +5,14 @@
 
 const sites = [
   {
-    url: "https://weiweihsu.com",
+    url: "https://calendly.com/weiweihsu/tea",
     title: "Tea with Weiwei",
     type: "wiki",
     author: "gardener",
     contact: "email",
     rss: "blank",
     feed: "blank",
-    site: "blank",
+    site: "https://weiweihsu.com",
   },
   {
     url: "https://www.tomokihara.com",
@@ -31,7 +31,7 @@ const sites = [
     author: "gardener",
     contact: "email",
     rss: "blank",
-    feed: "blank",
-    site: "blank",
+    feed: "https://gndclouds.cc/feed/feed.xml",
+    site: "https://gndclouds.cc",
   },
 ];
