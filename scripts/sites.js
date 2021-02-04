@@ -7,7 +7,7 @@ const sites = [
   {
     url: "https://calendly.com/weiweihsu/tea",
     title: "Tea with Weiwei",
-    type: "wiki",
+    type: "calender",
     author: "gardener",
     contact: "email",
     rss: "blank",
@@ -15,9 +15,9 @@ const sites = [
     site: "https://weiweihsu.com",
   },
   {
-    url: "https://www.tomokihara.com",
+    url: "https://calendly.com/tomo_k/30minm",
     title: "Tea with Tomo",
-    type: "wiki",
+    type: "calender",
     author: "gardener",
     contact: "email",
     rss: "blank",
@@ -27,7 +27,7 @@ const sites = [
   {
     url: "https://calendly.com/gndclouds/tea-time?month=2021-01",
     title: "Tea with Will",
-    type: "wiki",
+    type: "calender",
     author: "gardener",
     contact: "email",
     rss: "blank",
