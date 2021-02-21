@@ -6,6 +6,13 @@
   --ascii: #6c0ed4;
 }
 
+
+li.calender {
+  line-height: 1.8;
+  font-size: 25px;
+}
+
+
 * {
   margin: 0;
   padding: 0;

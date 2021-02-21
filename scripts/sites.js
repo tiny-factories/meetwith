@@ -6,7 +6,7 @@
 const sites = [
   {
     url: "https://calendly.com/weiweihsu/tea",
-    title: "Tea with Weiwei",
+    title: "Schedule a chat with Weiwei",
     type: "calender",
     author: "gardener",
     contact: "email",
@@ -16,7 +16,7 @@ const sites = [
   },
   {
     url: "https://calendly.com/kihapper/chat",
-    title: "Tea with Tomo",
+    title: "Schedule a chat with Tomo",
     type: "calender",
     author: "gardener",
     contact: "email",
@@ -26,7 +26,7 @@ const sites = [
   },
   {
     url: "https://calendly.com/gndclouds/tea-time?month=2021-01",
-    title: "Tea with Will",
+    title: "Schedule a chat with Will",
     type: "calender",
     author: "gardener",
     contact: "email",
