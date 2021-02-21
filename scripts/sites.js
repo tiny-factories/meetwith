@@ -15,7 +15,7 @@ const sites = [
     site: "https://weiweihsu.com",
   },
   {
-    url: "https://calendly.com/tomo_k/30min",
+    url: "https://calendly.com/kihapper/chat",
     title: "Tea with Tomo",
     type: "calender",
     author: "gardener",
