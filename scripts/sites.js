@@ -5,14 +5,14 @@
 
 const sites = [
   {
-    url: "https://calendly.com/weiweihsu/tea",
+    url: "https://calendly.com/weiweiwei33/tea",
     title: "Schedule a chat with Weiwei",
     type: "calender",
     author: "gardener",
     contact: "email",
     rss: "blank",
     feed: "blank",
-    site: "https://weiweihsu.com",
+    site: "https://weiwei.place",
   },
   {
     url: "https://calendly.com/kihapper/chat",
@@ -22,7 +22,7 @@ const sites = [
     contact: "email",
     rss: "blank",
     feed: "blank",
-    site: "blank",
+    site: "https://www.tomokihara.com",
   },
   {
     url: "https://calendly.com/gndclouds/tea-time?month=2021-01",
